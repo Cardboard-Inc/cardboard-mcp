@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.cardboard/cardboard",
+  "title": "Cardboard",
+  "description": "Edit videos in chat: cut, caption, add titles, music and voiceover, then preview and export.",
+  "version": "1.2.0",
+  "websiteUrl": "https://docs.cardboard.ai/mcp",
+  "repository": {
+    "url": "https://github.com/Cardboard-Inc/cardboard-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/Cardboard-Inc/cardboard-mcp/main/assets/logo.png",
+      "mimeType": "image/png",
+      "sizes": ["1024x1024"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.cardboard.ai/mcp"
+    }
+  ]
+}

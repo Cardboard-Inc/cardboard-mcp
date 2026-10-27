@@ -1,0 +1,7 @@
+{
+  "name": "cardboard",
+  "version": "1.0.0",
+  "description": "Edit Cardboard video projects: cut, caption, add titles and graphics, preview and export.",
+  "author": { "name": "Cardboard", "url": "https://cardboard.ai" },
+  "homepage": "https://cardboard.ai"
+}

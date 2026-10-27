@@ -1,0 +1,12 @@
+{
+  "name": "cardboard",
+  "description": "Cardboard's plugin: the Cardboard skill and connector.",
+  "owner": { "name": "Cardboard", "url": "https://www.cardboard.ai" },
+  "plugins": [
+    {
+      "name": "cardboard",
+      "source": "./",
+      "description": "Edit Cardboard video projects: cut, caption, add titles and graphics, preview and export."
+    }
+  ]
+}
